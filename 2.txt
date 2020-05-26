@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 testing--Testing the modification
 Test 1 branches
+=======
+Test 2 branches:testing--Testing the modification
+>>>>>>> Test2
